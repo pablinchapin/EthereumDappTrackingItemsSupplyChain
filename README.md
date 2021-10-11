@@ -50,8 +50,6 @@ Launch Ganache:
 ganache-cli -m "spirit supply whale amount human item harsh scare congress discover talent hamster"
 ```
 
-Your terminal should look something like this:
-
 ![truffle test](images/ganache-cli.png)
 
 In a separate terminal window, Compile smart contracts:
@@ -60,7 +58,6 @@ In a separate terminal window, Compile smart contracts:
 truffle compile
 ```
 
-Your terminal should look something like this:
 
 ![truffle test](images/truffle_compile.png)
 
@@ -71,8 +68,6 @@ Migrate smart contracts to the locally running blockchain, ganache-cli:
 ```
 truffle migrate
 ```
-
-Your terminal should look something like this:
 
 ![truffle test](images/truffle_migrate.png)
 
@@ -122,4 +117,3 @@ npm run dev
 * Solidity
 * Ganache-cli
 * Truffle
-* IPFS
