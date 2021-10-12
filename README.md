@@ -84,7 +84,7 @@ truffle migrate --reset --network rinkeby
    Deploying 'Migrations'
    ----------------------
    > transaction hash:    0xdf916c046db03ec643ef1c4728f511701fba097cc2c1c10db8abadbb91a0eb03
-- Blocks: 0            Seconds: 0
+   > Blocks: 0            Seconds: 0
    > Blocks: 0            Seconds: 4
    > contract address:    0x3D03f51C4763Dd540fdA10E96BC796838Dc6D38C
    > block number:        9449852
@@ -97,7 +97,7 @@ truffle migrate --reset --network rinkeby
    > total cost:          0.00226537 ETH
 
 
-- Saving migration to chain.
+   > Saving migration to chain.
    > Saving migration to chain.
    > Saving artifacts
    -------------------------------------
@@ -110,7 +110,7 @@ truffle migrate --reset --network rinkeby
    Deploying 'FarmerRole'
    ----------------------
    > transaction hash:    0x059078257b51af0d43244f6d0e11d6c92a588bafc8b7f1603e127d91a118c389
-- Blocks: 0            Seconds: 0
+   > Blocks: 0            Seconds: 0
    > Blocks: 1            Seconds: 12
    > contract address:    0x4E582D4ec7e3f26BdeC449C4D9Db97f9C7cBA96b
    > block number:        9449854
@@ -126,7 +126,7 @@ truffle migrate --reset --network rinkeby
    Deploying 'DistributorRole'
    ---------------------------
    > transaction hash:    0xf398ca22dadb68d6bd1316b34b787ded995d0c5b774a93bfd0f819ffd6c1590c
-- Blocks: 0            Seconds: 0
+   > Blocks: 0            Seconds: 0
    > Blocks: 1            Seconds: 12
    > contract address:    0xa7C6397107598Fd1c69578f96A6e9788d8aAc8c0
    > block number:        9449855
@@ -142,7 +142,7 @@ truffle migrate --reset --network rinkeby
    Deploying 'RetailerRole'
    ------------------------
    > transaction hash:    0xbcf17d974d4ae6fc0d1f626ff74b3224cfde3ed14e662f52d5dc0c5aa7c2b7ed
-- Blocks: 0            Seconds: 0
+   > Blocks: 0            Seconds: 0
    > Blocks: 0            Seconds: 12
    > contract address:    0x0DD824d6Ba523212EdEaE58C081CcF5108BB8104
    > block number:        9449856
@@ -158,7 +158,7 @@ truffle migrate --reset --network rinkeby
    Deploying 'ConsumerRole'
    ------------------------
    > transaction hash:    0x51da8107468219f36a103a967b91ec27847fdfd79da7b919a13ba53dd4942d17
-- Blocks: 0            Seconds: 0
+   > Blocks: 0            Seconds: 0
    > Blocks: 0            Seconds: 8
    > contract address:    0x6eCcF9262f5ecb65E74EECCc6f565DF024160409
    > block number:        9449857
@@ -174,7 +174,7 @@ truffle migrate --reset --network rinkeby
    Deploying 'SupplyChain'
    -----------------------
    > transaction hash:    0xa16220709f271c3303a23e13736254f72467abab191036952560b97f2b9d2c64
-- Blocks: 0            Seconds: 0
+   > Blocks: 0            Seconds: 0
    > Blocks: 0            Seconds: 8
    > contract address:    0x51577DD8264A12B4722df7d5177D0D9ae7691B7f
    > block number:        9449858
@@ -187,7 +187,7 @@ truffle migrate --reset --network rinkeby
    > total cost:          0.03553267 ETH
 
 
-- Saving migration to chain.
+   > Saving migration to chain.
    > Saving migration to chain.
    > Saving artifacts
    -------------------------------------
