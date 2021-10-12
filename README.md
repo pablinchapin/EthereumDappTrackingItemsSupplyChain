@@ -73,8 +73,11 @@ truffle migrate --reset --network rinkeby
 
 
 ======================
+
 Network name:    'rinkeby'
+
 Network id:      4
+
 Block gas limit: 29970705 (0x1c95111)
 
 
@@ -84,17 +87,29 @@ Block gas limit: 29970705 (0x1c95111)
    Deploying 'Migrations'
    ----------------------
    transaction hash:    0xdf916c046db03ec643ef1c4728f511701fba097cc2c1c10db8abadbb91a0eb03
+
    Blocks: 0            Seconds: 0
+
    Blocks: 0            Seconds: 4
+
    contract address:    0x3D03f51C4763Dd540fdA10E96BC796838Dc6D38C
+
    block number:        9449852
+
    block timestamp:     1634007066
+
    account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
+
    balance:             9.98341503
+
    gas used:            226537 (0x374e9)
+
    gas price:           10 gwei
+
    value sent:          0 ETH
+
    total cost:          0.00226537 ETH
+   
 
 
    Saving migration to chain.
