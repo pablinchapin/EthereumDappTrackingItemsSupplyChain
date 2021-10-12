@@ -238,30 +238,18 @@ Block gas limit: 29970705 (0x1c95111)
 
    Deploying 'SupplyChain'
    -----------------------
-   > transaction hash:    0xa16220709f271c3303a23e13736254f72467abab191036952560b97f2b9d2c64
-
-   > Blocks: 0            Seconds: 0
-
-   > Blocks: 0            Seconds: 8
-
-   > contract address:    0x51577DD8264A12B4722df7d5177D0D9ae7691B7f
-
-   > block number:        9449858
-
-   > block timestamp:     1634007157
-
-   > account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
-
-   > balance:             9.93424981
-
-   > gas used:            3553267 (0x3637f3)
-
-   > gas price:           10 gwei
-
-   > value sent:          0 ETH
-
-   > total cost:          0.03553267 ETH
-   
+   > transaction hash:  |  0xa16220709f271c3303a23e13736254f72467abab191036952560b97f2b9d2c64
+   > Blocks: 0    |        Seconds: 0
+   > Blocks: 0     |       Seconds: 8
+   > contract address: |   0x51577DD8264A12B4722df7d5177D0D9ae7691B7f
+   > block number: |       9449858
+   > block timestamp: |    1634007157
+   > account:  |           0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
+   > balance: |            9.93424981
+   > gas used: |           3553267 (0x3637f3)
+   > gas price: |          10 gwei
+   > value sent: |         0 ETH
+   > total cost: |         0.03553267 ETH   
 
    Saving migration to chain.
 
