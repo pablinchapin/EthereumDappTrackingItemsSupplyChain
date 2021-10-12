@@ -73,9 +73,9 @@ truffle migrate --reset --network rinkeby
 
 
 ======================
-> Network name:    'rinkeby'
-> Network id:      4
-> Block gas limit: 29970705 (0x1c95111)
+Network name:    'rinkeby'
+Network id:      4
+Block gas limit: 29970705 (0x1c95111)
 
 
 1_initial_migration.js
@@ -83,25 +83,25 @@ truffle migrate --reset --network rinkeby
 
    Deploying 'Migrations'
    ----------------------
-   > transaction hash:    0xdf916c046db03ec643ef1c4728f511701fba097cc2c1c10db8abadbb91a0eb03
-   > Blocks: 0            Seconds: 0
-   > Blocks: 0            Seconds: 4
-   > contract address:    0x3D03f51C4763Dd540fdA10E96BC796838Dc6D38C
-   > block number:        9449852
-   > block timestamp:     1634007066
-   > account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
-   > balance:             9.98341503
-   > gas used:            226537 (0x374e9)
-   > gas price:           10 gwei
-   > value sent:          0 ETH
-   > total cost:          0.00226537 ETH
+   transaction hash:    0xdf916c046db03ec643ef1c4728f511701fba097cc2c1c10db8abadbb91a0eb03
+   Blocks: 0            Seconds: 0
+   Blocks: 0            Seconds: 4
+   contract address:    0x3D03f51C4763Dd540fdA10E96BC796838Dc6D38C
+   block number:        9449852
+   block timestamp:     1634007066
+   account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
+   balance:             9.98341503
+   gas used:            226537 (0x374e9)
+   gas price:           10 gwei
+   value sent:          0 ETH
+   total cost:          0.00226537 ETH
 
 
-   > Saving migration to chain.
-   > Saving migration to chain.
-   > Saving artifacts
+   Saving migration to chain.
+   Saving migration to chain.
+   Saving artifacts
    -------------------------------------
-   > Total cost:          0.00226537 ETH
+   Total cost:          0.00226537 ETH
 
 
 2_deploy_contracts.js
@@ -109,95 +109,95 @@ truffle migrate --reset --network rinkeby
 
    Deploying 'FarmerRole'
    ----------------------
-   > transaction hash:    0x059078257b51af0d43244f6d0e11d6c92a588bafc8b7f1603e127d91a118c389
-   > Blocks: 0            Seconds: 0
-   > Blocks: 1            Seconds: 12
-   > contract address:    0x4E582D4ec7e3f26BdeC449C4D9Db97f9C7cBA96b
-   > block number:        9449854
-   > block timestamp:     1634007096
-   > account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
-   > balance:             9.97966706
-   > gas used:            329034 (0x5054a)
-   > gas price:           10 gwei
-   > value sent:          0 ETH
-   > total cost:          0.00329034 ETH
+   transaction hash:    0x059078257b51af0d43244f6d0e11d6c92a588bafc8b7f1603e127d91a118c389
+   Blocks: 0            Seconds: 0
+   Blocks: 1            Seconds: 12
+   contract address:    0x4E582D4ec7e3f26BdeC449C4D9Db97f9C7cBA96b
+   block number:        9449854
+   block timestamp:     1634007096
+   account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
+   balance:             9.97966706
+   gas used:            329034 (0x5054a)
+   gas price:           10 gwei
+   value sent:          0 ETH
+   total cost:          0.00329034 ETH
 
 
    Deploying 'DistributorRole'
    ---------------------------
-   > transaction hash:    0xf398ca22dadb68d6bd1316b34b787ded995d0c5b774a93bfd0f819ffd6c1590c
-   > Blocks: 0            Seconds: 0
-   > Blocks: 1            Seconds: 12
-   > contract address:    0xa7C6397107598Fd1c69578f96A6e9788d8aAc8c0
-   > block number:        9449855
-   > block timestamp:     1634007111
-   > account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
-   > balance:             9.97636364
-   > gas used:            330342 (0x50a66)
-   > gas price:           10 gwei
-   > value sent:          0 ETH
-   > total cost:          0.00330342 ETH
+   transaction hash:    0xf398ca22dadb68d6bd1316b34b787ded995d0c5b774a93bfd0f819ffd6c1590c
+   Blocks: 0            Seconds: 0
+   Blocks: 1            Seconds: 12
+   contract address:    0xa7C6397107598Fd1c69578f96A6e9788d8aAc8c0
+   block number:        9449855
+   block timestamp:     1634007111
+   account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
+   balance:             9.97636364
+   gas used:            330342 (0x50a66)
+   gas price:           10 gwei
+   value sent:          0 ETH
+   total cost:          0.00330342 ETH
 
 
    Deploying 'RetailerRole'
    ------------------------
-   > transaction hash:    0xbcf17d974d4ae6fc0d1f626ff74b3224cfde3ed14e662f52d5dc0c5aa7c2b7ed
-   > Blocks: 0            Seconds: 0
-   > Blocks: 0            Seconds: 12
-   > contract address:    0x0DD824d6Ba523212EdEaE58C081CcF5108BB8104
-   > block number:        9449856
-   > block timestamp:     1634007127
-   > account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
-   > balance:             9.97307306
-   > gas used:            329058 (0x50562)
-   > gas price:           10 gwei
-   > value sent:          0 ETH
-   > total cost:          0.00329058 ETH
+   transaction hash:    0xbcf17d974d4ae6fc0d1f626ff74b3224cfde3ed14e662f52d5dc0c5aa7c2b7ed
+   Blocks: 0            Seconds: 0
+   Blocks: 0            Seconds: 12
+   contract address:    0x0DD824d6Ba523212EdEaE58C081CcF5108BB8104
+   block number:        9449856
+   block timestamp:     1634007127
+   account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
+   balance:             9.97307306
+   gas used:            329058 (0x50562)
+   gas price:           10 gwei
+   value sent:          0 ETH
+   total cost:          0.00329058 ETH
 
 
    Deploying 'ConsumerRole'
    ------------------------
-   > transaction hash:    0x51da8107468219f36a103a967b91ec27847fdfd79da7b919a13ba53dd4942d17
-   > Blocks: 0            Seconds: 0
-   > Blocks: 0            Seconds: 8
-   > contract address:    0x6eCcF9262f5ecb65E74EECCc6f565DF024160409
-   > block number:        9449857
-   > block timestamp:     1634007142
-   > account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
-   > balance:             9.96978248
-   > gas used:            329058 (0x50562)
-   > gas price:           10 gwei
-   > value sent:          0 ETH
-   > total cost:          0.00329058 ETH
+   transaction hash:    0x51da8107468219f36a103a967b91ec27847fdfd79da7b919a13ba53dd4942d17
+   Blocks: 0            Seconds: 0
+   Blocks: 0            Seconds: 8
+   contract address:    0x6eCcF9262f5ecb65E74EECCc6f565DF024160409
+   block number:        9449857
+   block timestamp:     1634007142
+   account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
+   balance:             9.96978248
+   gas used:            329058 (0x50562)
+   gas price:           10 gwei
+   value sent:          0 ETH
+   total cost:          0.00329058 ETH
 
 
    Deploying 'SupplyChain'
    -----------------------
-   > transaction hash:    0xa16220709f271c3303a23e13736254f72467abab191036952560b97f2b9d2c64
-   > Blocks: 0            Seconds: 0
-   > Blocks: 0            Seconds: 8
-   > contract address:    0x51577DD8264A12B4722df7d5177D0D9ae7691B7f
-   > block number:        9449858
-   > block timestamp:     1634007157
-   > account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
-   > balance:             9.93424981
-   > gas used:            3553267 (0x3637f3)
-   > gas price:           10 gwei
-   > value sent:          0 ETH
-   > total cost:          0.03553267 ETH
+   transaction hash:    0xa16220709f271c3303a23e13736254f72467abab191036952560b97f2b9d2c64
+   Blocks: 0            Seconds: 0
+   Blocks: 0            Seconds: 8
+   contract address:    0x51577DD8264A12B4722df7d5177D0D9ae7691B7f
+   block number:        9449858
+   block timestamp:     1634007157
+   account:             0xF3DbD0ba5130114b30e58c5202aA12e68d2ED12f
+   balance:             9.93424981
+   gas used:            3553267 (0x3637f3)
+   gas price:           10 gwei
+   value sent:          0 ETH
+   total cost:          0.03553267 ETH
 
 
-   > Saving migration to chain.
-   > Saving migration to chain.
-   > Saving artifacts
+   Saving migration to chain.
+   Saving migration to chain.
+   Saving artifacts
    -------------------------------------
-   > Total cost:          0.04870759 ETH
+   Total cost:          0.04870759 ETH
 
 
 Summary
 =======
-> Total deployments:   6
-> Final cost:          0.05097296 ETH
+Total deployments:   6
+Final cost:          0.05097296 ETH
 
 ![truffle migrate](images/rinkebyTransactionHashTxhashDetails_Etherscan.png)
 
